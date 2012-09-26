@@ -7,7 +7,7 @@ a small matrix, SoS adds different infinitesimal shifts to each input variable. 
 evaluates to zero, the infinitesimal shifts guarantee a (possibly infinitesimal) nonzero value.  Thus, algorithms
 which make use of SoS predicates can pretend that degeneracies never occur.  For more details on the underlying technique, see
 
-  Edelsbrunner, H., Mucke, E., "Simulation of simplicity: a technique to cope with degenerate cases in geometric algorithms",
+* Edelsbrunner, H., Mucke, E., "Simulation of simplicity: a technique to cope with degenerate cases in geometric algorithms",
   http://arxiv.org/abs/math/9410209.
 
 There are two dependencies:
